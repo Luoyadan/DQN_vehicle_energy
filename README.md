@@ -9,7 +9,7 @@ Tensorflow implementation of our paper "Deep reinforcement learning-based vehicl
 ## Usage
 
 ```shell
-python
+python DQN.py
 ```
 
 ## Citation
