@@ -1,4 +1,4 @@
-# MAH-Pytorch
+# DQN_vehicle_energy
 Tensorflow implementation of our paper "Deep reinforcement learning-based vehicle energy efficiency autonomous learning system" [[Link]](https://ieeexplore.ieee.org/abstract/document/7995880). 
 
 ## Dependencies
